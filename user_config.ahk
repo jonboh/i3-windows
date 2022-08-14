@@ -1,4 +1,3 @@
-#Include i3wm.ahk
 ; ====================
 ; === INSTRUCTIONS ===
 ; ====================
@@ -42,12 +41,9 @@
 #+8::MoveCurrentWindowToDesktop(8)
 #+9::MoveCurrentWindowToDesktop(9)
 
-#q::quitWindow()
+^q::quitWindow()
 
-;#f::toggleMaximize()
-
-; WSL -- create shortcut by dragging from start menu (can't be from a search result)
-#Enter::Run, C:\window-mover.git\Debian GNU-Linux
+#f::toggleMaximize()
 
 ; PowerShell
-#+Enter::Run, powershell
+^!t::Run, C:\Program Files\WindowsApps\Microsoft.WindowsTerminal_1.14.1962.0_x64__8wekyb3d8bbwe\wt.exe
