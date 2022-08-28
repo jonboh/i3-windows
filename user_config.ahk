@@ -46,4 +46,4 @@
 #f::toggleMaximize()
 
 ; PowerShell
-^!t::Run, C:\Program Files\WindowsApps\Microsoft.WindowsTerminal_1.14.1962.0_x64__8wekyb3d8bbwe\wt.exe
+^!t::Run, wt.exe
