@@ -45,5 +45,3 @@
 
 #f::toggleMaximize()
 
-; PowerShell
-^!t::Run, wt.exe
