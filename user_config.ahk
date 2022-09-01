@@ -41,7 +41,6 @@
 #+8::MoveCurrentWindowToDesktop(8)
 #+9::MoveCurrentWindowToDesktop(9)
 
-^q::quitWindow()
-
 #f::toggleMaximize()
 
+#t::Run, wt.exe
