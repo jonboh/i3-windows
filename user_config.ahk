@@ -43,4 +43,4 @@
 
 #f::toggleMaximize()
 
-#t::Run, wt.exe
+#t::Run, wezterm-gui.exe
