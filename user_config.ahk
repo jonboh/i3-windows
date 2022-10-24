@@ -43,4 +43,4 @@
 
 #f::toggleMaximize()
 
-#t::Run, wezterm-gui.exe
+#!t::Run, wezterm-gui.exe ; admin terminal

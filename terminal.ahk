@@ -1,2 +1,2 @@
 ; Terminal
-^!t::Run, wezterm-gui.exe
+#t::Run, wezterm-gui.exe
